@@ -1,4 +1,10 @@
 var plugins = [{
+      plugin: require('/Users/rad/Documents/github/Master-Gtasby/gatsby/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      options: {"plugins":[]},
+    },{
+      plugin: require('/Users/rad/Documents/github/Master-Gtasby/gatsby/node_modules/gatsby-source-sanity/gatsby-ssr'),
+      options: {"plugins":[],"projectId":"1pv2h9bh","dataset":"production","watchMode":true,"token":"sk5ACOvshlKYAgvJLFeDudzyc6IZVt0BDUQXR0crYaAFV0ZeI7nSYwsMLMfDsrKJ90wUGOOJvrHA8yjD9iiotGzFYww6uM9onk85yoTDfLU3Y67rRKgDECHeeWeFl2eYeO5PfqT7mDRXTWVxW4jez1rzFx4208H79dXQxdlIl8WwkYbbwoZ4"},
+    },{
       plugin: require('/Users/rad/Documents/github/Master-Gtasby/gatsby/gatsby-ssr'),
       options: {"plugins":[]},
     }]
