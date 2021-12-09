@@ -1,0 +1,2 @@
+npm run develop to start
+Scripts don't work for now to npm start use npm run develop as intended in package.json. Same goes for netlify and everything else.
