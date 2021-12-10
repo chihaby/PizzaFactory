@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{CL54:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return u}));var a=t("q1tI"),r=t.n(a);function u(){return r.a.createElement(r.a.Fragment,null,r.a.createElement("p",null,"This is Drinks Page"))}}}]);
+//# sourceMappingURL=component---src-pages-drinks-js-ac37c0753cee74c8e66f.js.map

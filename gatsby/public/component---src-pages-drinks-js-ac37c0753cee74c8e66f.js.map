@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/drinks.js"],"names":["DrinksPage"],"mappings":"2FAAA,wEAEe,SAASA,IACtB,OACE,oCACE","file":"component---src-pages-drinks-js-ac37c0753cee74c8e66f.js","sourcesContent":["import React from 'react';\n\nexport default function DrinksPage() {\n  return (\n    <>\n      <p>This is Drinks Page</p>\n    </>\n  );\n}\n"],"sourceRoot":""}
